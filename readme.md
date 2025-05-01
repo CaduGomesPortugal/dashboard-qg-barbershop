@@ -48,6 +48,8 @@ Analisar os serviços e produtos mais vendidos, frequência de atendimento por c
 
 ## 👨‍💼 Autor
 
-**Cadu Gomes**  
-Barbeiro, Analista de Dados em formação  
-Contato: [LinkedIn ou E-mail se quiser inserir]
+**Carlos Eduardo Gomes Portugal**  
+Analista de Dados em formação  
+Contato: https://www.linkedin.com/in/carlos-eduardo-gomes-portugal-37550b278/ 
+Telefone: (21) 99131-3976
+E-mail: caduportugal91@gmail.com
